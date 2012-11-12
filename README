@@ -1,0 +1,7 @@
+Description:  Uses a customized list to tell you which shows that you watch are on tonight.
+
+Usage:
+	java -jar NewOnTV.jar <file> (edit)
+	
+<file>:  the name of the file you want to open/edit/create/check
+(edit):  optional parameter telling the program that you want to edit your list
